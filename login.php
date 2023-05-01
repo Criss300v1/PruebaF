@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Iniciar sesión</title>
+	<title>INICIA TU SECION</title>
 </head>
 <body>
 	<h2>Iniciar sesión</h2>
